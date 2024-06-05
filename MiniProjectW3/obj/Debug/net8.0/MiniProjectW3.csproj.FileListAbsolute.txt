@@ -1,0 +1,14 @@
+C:\Users\njysx\source\repos\MiniProjectW3\bin\Debug\net8.0\MiniProjectW3.exe
+C:\Users\njysx\source\repos\MiniProjectW3\bin\Debug\net8.0\MiniProjectW3.deps.json
+C:\Users\njysx\source\repos\MiniProjectW3\bin\Debug\net8.0\MiniProjectW3.runtimeconfig.json
+C:\Users\njysx\source\repos\MiniProjectW3\bin\Debug\net8.0\MiniProjectW3.dll
+C:\Users\njysx\source\repos\MiniProjectW3\bin\Debug\net8.0\MiniProjectW3.pdb
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.AssemblyInfoInputs.cache
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.AssemblyInfo.cs
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.csproj.CoreCompileInputs.cache
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.dll
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\refint\MiniProjectW3.dll
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.pdb
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\MiniProjectW3.genruntimeconfig.cache
+C:\Users\njysx\source\repos\MiniProjectW3\obj\Debug\net8.0\ref\MiniProjectW3.dll
