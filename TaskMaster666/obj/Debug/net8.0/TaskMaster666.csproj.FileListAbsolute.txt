@@ -1,0 +1,14 @@
+C:\Users\njysx\source\repos\TaskMaster666\bin\Debug\net8.0\TaskMaster666.exe
+C:\Users\njysx\source\repos\TaskMaster666\bin\Debug\net8.0\TaskMaster666.deps.json
+C:\Users\njysx\source\repos\TaskMaster666\bin\Debug\net8.0\TaskMaster666.runtimeconfig.json
+C:\Users\njysx\source\repos\TaskMaster666\bin\Debug\net8.0\TaskMaster666.dll
+C:\Users\njysx\source\repos\TaskMaster666\bin\Debug\net8.0\TaskMaster666.pdb
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.AssemblyInfoInputs.cache
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.AssemblyInfo.cs
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.csproj.CoreCompileInputs.cache
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.dll
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\refint\TaskMaster666.dll
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.pdb
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\TaskMaster666.genruntimeconfig.cache
+C:\Users\njysx\source\repos\TaskMaster666\obj\Debug\net8.0\ref\TaskMaster666.dll

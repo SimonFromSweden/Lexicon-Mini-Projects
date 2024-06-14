@@ -1,0 +1,6 @@
+Winning a discgolf tournament,2024-10-15,False,Hobbies
+Roadtripping in Norway,2024-07-15,False,Leisure
+Getting rid of my man-belly,2025-01-01,False,Exercise
+Dancing Lindy Hop,2024-07-10,True,Hobbies
+Completing your education,2015-01-20,False,Academia
+Learning .NET,2024-12-31,False,Academia
