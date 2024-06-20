@@ -1,0 +1,156 @@
+/* Inspiration for this CV comes from this CV 
+https://www.cv-mallar.net/wp-content/uploads/2021/12/Statlig-CV-bild-400x520.jpg*/
+
+p {
+   font-size: 14px;
+}
+
+.wrapper {
+   margin: 0 auto;
+   width: 900px;
+}
+
+header {
+   display: grid;
+   grid-template-columns: 67.5% 1fr;
+   grid-template-rows: 1fr 1fr;
+   grid-template-areas:
+      "name pict"
+      "summ pict";
+}
+
+#name {
+   grid-area: name;
+   margin-left: 50px;
+}
+
+#name > h1 {
+   position: relative;
+   top: 45px;
+}
+
+#name > h2 {
+   position: relative;
+   top: 30px;
+   font-size: 18px;
+}
+
+#summ {
+   grid-area: summ;
+   padding: 0 50px 0 50px;
+   text-wrap: wrap;
+   border-top: 3px rgb(207, 161, 34) solid;
+   border-bottom: 3px rgb(207, 161, 34) solid;
+}
+
+#summ > p {
+   font-size: 14px;
+}
+
+#pict {
+   height: 40vh;
+   grid-area: pict;
+   background-color: rgb(207, 161, 34);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#circular {
+   border-radius: 50%;
+}
+
+img {
+   height: 200px;
+   width: 200px;
+}
+
+.maingrid {
+   display: grid;
+   grid-template-columns: 67.5% 1fr;
+   grid-template-rows: 1fr;
+   grid-template-areas: "main asid";
+}
+
+main {
+   height: 70vh;
+   grid-area: main;
+   margin: 0 50px 0 50px;
+}
+
+ul > li {
+   font-size: 14px;
+}
+
+aside {
+   height: 70vh;
+   grid-area: asid;
+   padding-left: 20px;
+   border-left: 3px rgb(207, 161, 34) solid;
+}
+
+#edudiv {
+   position: relative;
+   bottom: 20px;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: 1fr 1fr;
+   grid-template-areas:
+      "div1 div2"
+      "div3 div4";
+}
+
+#edudiv > div > p {
+   position: relative;
+   bottom: 15px;
+}
+
+#div1 {
+   grid-area: div1;
+}
+
+#div2 {
+   grid-area: div2;
+}
+
+#div3 {
+   grid-area: div3;
+   position: relative;
+   bottom: 35px;
+}
+
+#div4 {
+   grid-area: div4;
+   position: relative;
+   bottom: 35px;
+}
+
+#cont {
+   position: relative;
+   bottom: 85px;
+}
+
+.inline {
+   display: flex;
+}
+
+.inline > img {
+   width: 25px;
+   height: 25px;
+}
+
+.inline > p {
+   position: relative;
+   bottom: 11px;
+   left: 75px;
+}
+
+#int {
+   position: relative;
+   bottom: 100px;
+}
+
+#int > ul > li {
+   position: relative;
+   right: 25px;
+}
